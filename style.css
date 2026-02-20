@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Encode+Sans:wght@100..900&family=Fira+Code:wght@300..700&family=Gravitas+One&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Quicksand:wght@300..700&family=SN+Pro:ital,wght@0,200..900;1,200..900&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&family=Ultra&display=swap');
+
+
+
+body{
+    display: flex;
+    margin: 0;
+    background-color: aqua;
+    background-image:url("https://i.pinimg.com/1200x/4a/c2/be/4ac2bee3b3939c5e9ffc737dea3452f0.jpg") ;  
+    background-repeat: no-repeat;
+    background-size: 220vh;
+    background-attachment: scroll;
+}
+.card{
+   
+    background-color:aqua;
+    height: 500px;
+    width: 500px;
+    padding: 80px;
+    border-radius: 20px;
+    justify-content: center;
+    text-align: center;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    margin-left: 600px;
+    margin-top: 150px;  
+   
+}
+h1{
+    font-size: 50px;
+    color:rgb(243, 104, 12);
+    font-family: "DM Serif Text", serif;
+   letter-spacing: 2px;
+   font-weight: bold;
+   font-style: italic;
+    
+}
+p{
+    font-size: 30px;
+    font-weight: bold;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+input{
+    font-size: 20px;
+    border-radius: 20px;
+    padding: 20px;
+}
+.btn{
+    background-color: brown;
+    color: aliceblue;
+    text-align: center;
+    border-radius: 15px;
+    padding: 15px;
+    margin-bottom: 20px;
+}
+
